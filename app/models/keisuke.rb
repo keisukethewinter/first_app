@@ -1,0 +1,3 @@
+class Keisuke < ApplicationRecord
+
+end
